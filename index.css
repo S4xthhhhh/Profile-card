@@ -8,12 +8,12 @@ body{
     justify-content: center;
     align-items: center;
     margin: 0;
-    background-color: #ffe082;
+    background-color: #dee0eb;
 }
 .container{
     height: 600px;
     width: 500px;
-    background-color: #fffde7;
+    background-color: #f5feff;
     border-radius: 20px;
     overflow: hidden;
 
@@ -22,9 +22,10 @@ body{
     text-align: center;
     margin: 0;
     width: 100%;
-    background-color: #fff9c4;
+    background-color: #788ead;
     padding-top: 20px;
     padding-bottom: 20px;
+    color: white;
 }
 .name h1{
     font-family: Tahoma, 'Poppins', sans-serif;
