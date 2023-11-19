@@ -61,6 +61,21 @@ body{
 }
 .name p{
     margin: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
     font-size: 100;
+}
+footer{
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 700px;
+    display: flex;
+    justify-content: center;
+}
+footer a{
+    text-align: center;
+    text-decoration: none;
+    font-weight: 300;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
 }
