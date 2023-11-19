@@ -62,6 +62,8 @@ body{
     text-align: center;
     justify-content: center;
     width: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .name p{
     margin: 0;
